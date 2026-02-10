@@ -1,0 +1,198 @@
+FDIC RMS MANUAL OF EXAMINATION POLICIES
+SECTION 3.2 – LOANS
+STRUCTURED REGULATORY SUMMARY (EXAMINER-GRADE)
+1. PURPOSE AND REGULATORY INTENT
+
+Section 3.2 of the FDIC Risk Management Manual of Examination Policies establishes supervisory expectations related to the management of loan portfolios by insured depository institutions. The section focuses on credit risk management, loan policy governance, documentation sufficiency, and loan administration practices. It provides guidance for evaluating whether lending activities are conducted in a safe and sound manner.
+
+This section does not prescribe loan approval decisions, underwriting formulas, or pricing standards. Its purpose is to assess the adequacy of processes, controls, and documentation, rather than to substitute examiner judgment for management decision-making.
+
+2. BOARD AND MANAGEMENT OVERSIGHT
+
+Institutions are expected to demonstrate active oversight of lending activities by the board of directors and senior management. Oversight responsibilities include approving loan policies, monitoring credit risk exposure, and ensuring compliance with internal standards.
+
+Examiners evaluate whether management practices are consistent with approved policies and whether deviations are identified, justified, and controlled.
+
+3. LOAN POLICIES AND UNDERWRITING STANDARDS
+
+Institutions must maintain written loan policies appropriate to their size, complexity, and risk profile. These policies should address:
+
+Types of loans offered
+
+Acceptable purposes and structures
+
+Underwriting and approval standards
+
+Documentation requirements
+
+Collateral requirements and valuation practices
+
+Risk limits and approval authorities
+
+Problem loan identification and resolution
+
+Examiners assess whether lending practices conform to policy and whether policies are periodically reviewed and updated.
+
+4. LOAN DOCUMENTATION REQUIREMENTS
+
+Adequate loan documentation is a fundamental supervisory expectation. Documentation should be sufficient to:
+
+Evidence the borrower’s legal obligation to repay
+
+Support the purpose and structure of the credit
+
+Permit independent credit review
+
+Enable ongoing loan monitoring
+
+Missing, incomplete, or outdated documentation may indicate weaknesses in credit administration and elevate supervisory concern.
+
+5. BORROWER REPAYMENT CAPACITY ANALYSIS
+
+Institutions are expected to document the borrower’s ability to repay the loan according to its contractual terms. Depending on the loan type, this may include:
+
+Financial statements
+
+Income documentation
+
+Cash flow analysis
+
+Tax returns
+
+Other verifiable financial information
+
+Reliance on undocumented assumptions regarding repayment capacity is inconsistent with safe and sound lending practices. The absence of repayment analysis represents increased credit risk, even when loans are currently performing.
+
+6. COLLATERAL AND SECURITY DOCUMENTATION
+
+For secured loans, institutions should maintain documentation that:
+
+Identifies the collateral securing the loan
+
+Establishes ownership or control
+
+Supports collateral valuation
+
+Confirms lien priority and enforceability
+
+Collateral should be periodically evaluated to ensure that values remain reasonable. While collateral may mitigate loss exposure, it does not replace the need for documented repayment capacity.
+
+7. CREDIT RISK IDENTIFICATION AND MEASUREMENT
+
+Institutions should have processes to identify and measure credit risk at both the individual loan level and portfolio level. This includes:
+
+Risk rating systems
+
+Loan classifications
+
+Identification of credit concentrations
+
+Monitoring changes in borrower condition or collateral value
+
+Failure to identify emerging credit risk in a timely manner may indicate deficiencies in risk management practices.
+
+8. LOAN ADMINISTRATION AND MONITORING
+
+Effective loan administration requires ongoing monitoring throughout the life of the loan. Institutions are expected to:
+
+Obtain updated financial information as required
+
+Monitor compliance with loan terms and covenants
+
+Track payment performance
+
+Review collateral condition periodically
+
+Weak monitoring practices may delay identification of credit deterioration.
+
+9. PROBLEM LOAN IDENTIFICATION AND CLASSIFICATION
+
+Institutions should identify problem loans promptly and classify them in accordance with regulatory definitions. Examiner review focuses on whether:
+
+Credit weaknesses are recognized timely
+
+Risk ratings reflect current conditions
+
+Management takes appropriate corrective action
+
+Delays in recognizing problem loans may result in supervisory criticism.
+
+10. LOAN REVIEW SYSTEMS
+
+A sound loan review system is a key internal control. Effective loan review systems:
+
+Operate independently from loan origination
+
+Identify credit weaknesses early
+
+Assess compliance with loan policies
+
+Validate risk ratings and classifications
+
+Loan review findings should be reported to senior management and the board of directors.
+
+11. CONCENTRATIONS OF CREDIT
+
+Institutions should identify, monitor, and control concentrations of credit that could expose the institution to elevated risk. Concentrations may arise from:
+
+Loan type
+
+Industry
+
+Geography
+
+Borrower or related borrowers
+
+Failure to manage concentrations appropriately may increase vulnerability to adverse economic conditions.
+
+12. EXAMINER ASSESSMENT FOCUS
+
+Under Section 3.2, examiners evaluate:
+
+Adequacy of loan policies
+
+Quality and completeness of loan documentation
+
+Effectiveness of credit risk management
+
+Timeliness of problem loan recognition
+
+Management and board oversight
+
+The focus is on process quality and risk management, not on loan approval decisions.
+
+13. COMMON DEFICIENCIES IDENTIFIED BY EXAMINERS
+
+Typical deficiencies observed under Section 3.2 include:
+
+Incomplete or outdated financial information
+
+Insufficient repayment capacity analysis
+
+Weak or unsupported collateral valuations
+
+Policy exceptions without proper justification
+
+Ineffective loan review systems
+
+Such deficiencies may elevate supervisory concern even when loans are performing.
+
+14. EXPLICIT LIMITATIONS OF SECTION 3.2
+
+Section 3.2:
+
+Does NOT provide loan approval criteria
+
+Does NOT establish pricing or underwriting formulas
+
+Does NOT replace management judgment
+
+Does NOT permit inference beyond documented facts
+
+Does NOT authorize automated credit decisions
+
+The section is strictly focused on loan risk management and documentation sufficiency.
+
+15. REGULATORY APPLICATION BOUNDARY
+
+This section is intended to guide examiner evaluation of lending practices and documentation quality. It should be applied consistently and proportionately, considering the institution’s size, complexity, and risk profile.
